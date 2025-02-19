@@ -1,7 +1,7 @@
 # MERN Full Stack Assignment
 
-**Jayesh Dubey**  
-**Roll No:** 22BSA10058
+**Vijay Mane**  
+**Roll No:** 22BSA10048
 
 ## Description
 This project is a MERN Full Stack Assignment that includes multiple tasks accessible through the `index.html` file.
